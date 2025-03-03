@@ -2,6 +2,8 @@
 title: "A very brief introduction to species distribution models in R"
 author: "Jeff Oliver"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r library-check, echo = FALSE, results = "hide"}
